@@ -1,0 +1,10 @@
+{
+    "326985203@qq.com": {
+        "password": "Cc20031219",
+        "confirmed": false
+    },
+    "testuser@example.com": {
+        "password": "ValidPass123",
+        "confirmed": false
+    }
+}
